@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @halleluyahadesuyi
 
-- :earth_africa: You can see my portfolio here https://personal-portfolio-halleluyah-adesuyi.netlify.app/
+- :earth_africa: You can see my portfolio here: https://personal-portfolio-halleluyah-adesuyi.netlify.app/
 
 - 👀 I’m interested in Frontend Development Technologies
 
@@ -8,7 +8,7 @@
 
 - 💞️ I’m looking to collaborate on problem-solving frontend development projects
 
-- 📫 How to reach me: Kindly send me an email at adesuyihalleluyah@gmail.com
+- 📫 How to reach me: Kindly email me at adesuyihalleluyah@gmail.com
 
 - :bulb: Fun fact: I enjoy fixing faulty objects; making them useable again
 
