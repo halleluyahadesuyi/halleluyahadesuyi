@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: Kindly email me at adesuyihalleluyah@gmail.com
 
-- :bulb: Fun fact: I enjoy fixing faulty objects; making them useable again
+- :bulb: Fun fact: I am solution-oriented, a problem solver. I enjoy adding more life to faulty objects by fixing them; making them functional all over again
 
 <!---
 halleluyahadesuyi/halleluyahadesuyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
