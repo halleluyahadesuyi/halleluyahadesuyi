@@ -4,9 +4,9 @@
 
 - 👀 I’m interested in Frontend Development Technologies
 
-- 🌱 I’m currently working with React, Next.js, JavaScript, Typescript, Tailwind CSS, Styled-Components, Git, Figma, Jasmine Testing Suite, and Redux
+- 🌱 I currently work with React, Next.js, JavaScript, Typescript, Tailwind CSS, Styled-Components, and Redux
 
-- 💞️ I’m looking to collaborate on problem-solving frontend development projects
+- 💞️ I collaborate on problem-solving frontend development projects
 
 - 📫 How to reach me: Kindly email me at adesuyihalleluyah@gmail.com
 
