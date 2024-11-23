@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @halleluyahadesuyi
 
-- :earth_africa: You can see my portfolio here: https://personal-portfolio-halleluyah-adesuyi.netlify.app/
+- :earth_africa: You can see my portfolio here: [https://halleluyah-adesuyi-portfolio.vercel.app/](https://halleluyah-adesuyi-portfolio.vercel.app/)
 
 - 👀 I’m interested in Frontend Development Technologies
 
