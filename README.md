@@ -4,7 +4,7 @@
 
 - 🌍 You can see my portfolio here: [https://halleluyah-adesuyi-portfolio.vercel.app/](https://halleluyah-adesuyi-portfolio.vercel.app/)
 
-- 💎 I currently work with React, Next.js, JavaScript, TypeScript, Tailwind CSS, Styled-Components, Redux
+- 💎 I currently build using React, Next.js, JavaScript, TypeScript, Tailwind CSS, Styled-Components, Redux
 
 - 🤓 I collaborate on problem-solving frontend development projects
 
