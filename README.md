@@ -7,7 +7,13 @@ Check out my portfolio: [halleluyah-adesuyi-portfolio.vercel.app](https://hallel
 I love collaborating on challenging frontend projects that involve clean UI, reusable components, and scalable architecture.
 
 🛠️ Core Tech Stack:  
-React · Next.js · JavaScript · TypeScript · Tailwind CSS · Styled-Components · Redux
+- React
+- Next.js
+- JavaScript
+- TypeScript
+- Tailwind CSS
+- Styled-Components
+- Redux
 
 Reach me at: **adesuyihalleluyah@gmail.com**
 
