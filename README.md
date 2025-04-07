@@ -1,16 +1,18 @@
-- 👋 Hi, I’m @halleluyahadesuyi
-  
-- 💪 Frontend development technologies are my forte
+# 👋 Great to have you here, I am Halleluyah Adesuyi.
 
-- 🌍 You can see my portfolio here: [https://halleluyah-adesuyi-portfolio.vercel.app/](https://halleluyah-adesuyi-portfolio.vercel.app/)
+I am a Frontend Developer who is excellent at building sleek, high-performance user interfaces using modern tools like **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, and **Redux**.
 
-- 💎 I currently build using React, Next.js, JavaScript, TypeScript, Tailwind CSS, Styled-Components, Redux
+Check out my portfolio: [halleluyah-adesuyi-portfolio.vercel.app](https://halleluyah-adesuyi-portfolio.vercel.app/)
 
-- 🤓 I collaborate on problem-solving frontend development projects
+I love collaborating on challenging frontend projects that involve clean UI, reusable components, and scalable architecture.
 
-- 📫 Do you want to contact me? Kindly email me at adesuyihalleluyah@gmail.com
+🛠️ Core Tech Stack:  
+React · Next.js · JavaScript · TypeScript · Tailwind CSS · Styled-Components · Redux
 
-- 💡 Fun fact: I am solution-oriented, a problem solver. I enjoy adding more life to faulty articles by fixing them; making them functional all over again
+Reach me at: **adesuyihalleluyah@gmail.com**
+
+💡 Fun fact: I am solution-oriented and derive contentment in reviving broken UIs — fixing bugs, refactoring unstructured code, and bringing applications back to life is my kind of fun.
+
 
 <!---
 halleluyahadesuyi/halleluyahadesuyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
